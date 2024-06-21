@@ -1,0 +1,39 @@
+/*Font Links*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/*Common CSS start*/
+body{
+	font-family:"Playfair Display", serif ;
+	font-size: 16px ;
+	font-weight: 400;
+	color:#626262;
+}
+/*Common CSS End*/
+
+/*Header Start---*/
+
+header{
+	
+}
+.conainer{
+	width: 90%;
+	border: 1px solid;
+}
+.logo a img{}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{}
+.menu ul li:last-child a{}
+.menu ul li a:hover{}
+
+/*Header End---*/
+
+
+.box{
+	width:100px;
+	height: 200px;
+	background-color: blueviolet;
+	border: solid 3px black;
+}
